@@ -18441,7 +18441,7 @@
     "id": "omi-conversations",
     "name": "Omi Conversations",
     "author": "Salman M.",
-    "description": "Sync your Omi AI conversation memories into organized Obsidian markdown files",
+    "description": "description": "Sync your Omi AI conversation memories into organized markdown files",
     "repo": "smian1/obsidian-omi"
   }
 ]
