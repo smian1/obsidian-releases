@@ -18436,5 +18436,12 @@
     "author": "Leafney",
     "description": "View XMind files in your vault and connect to XMind software for editing.",
     "repo": "leafney/obsidian-xmind-linker"
+  },
+  {
+    "id": "omi-conversations",
+    "name": "Omi Conversations",
+    "author": "Salman M.",
+    "description": "Sync your Omi AI conversation memories into organized Obsidian markdown files",
+    "repo": "smian1/obsidian-omi"
   }
 ]
